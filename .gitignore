@@ -1,0 +1,7 @@
+ambiente
+.DS_Store
+
+venv
+env
+.env
+.venv
